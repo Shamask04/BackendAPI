@@ -11,6 +11,8 @@ builder.Services.AddScoped<IAlphaVantageService, AlphaVantageService>();
 // Register HTTP client
 builder.Services.AddHttpClient<IAlphaVantageService, AlphaVantageService>();
 
+builder.Services.AddSingleton<IEmailVerificationService, EmailVerificationService>();
+
 
 // Enable CORS for Angular
 builder.Services.AddCors();
