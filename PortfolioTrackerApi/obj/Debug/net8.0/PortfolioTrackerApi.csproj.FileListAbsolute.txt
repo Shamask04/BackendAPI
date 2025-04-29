@@ -1,0 +1,100 @@
+/workspaces/simple-portfolio-tracker/PortfolioTrackerApi/bin/Debug/net8.0/appsettings.Development.json
+/workspaces/simple-portfolio-tracker/PortfolioTrackerApi/bin/Debug/net8.0/appsettings.json
+/workspaces/simple-portfolio-tracker/PortfolioTrackerApi/bin/Debug/net8.0/PortfolioTrackerApi
+/workspaces/simple-portfolio-tracker/PortfolioTrackerApi/bin/Debug/net8.0/PortfolioTrackerApi.deps.json
+/workspaces/simple-portfolio-tracker/PortfolioTrackerApi/bin/Debug/net8.0/PortfolioTrackerApi.runtimeconfig.json
+/workspaces/simple-portfolio-tracker/PortfolioTrackerApi/bin/Debug/net8.0/PortfolioTrackerApi.dll
+/workspaces/simple-portfolio-tracker/PortfolioTrackerApi/bin/Debug/net8.0/PortfolioTrackerApi.pdb
+/workspaces/simple-portfolio-tracker/PortfolioTrackerApi/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/workspaces/simple-portfolio-tracker/PortfolioTrackerApi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/workspaces/simple-portfolio-tracker/PortfolioTrackerApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/workspaces/simple-portfolio-tracker/PortfolioTrackerApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/workspaces/simple-portfolio-tracker/PortfolioTrackerApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/workspaces/simple-portfolio-tracker/PortfolioTrackerApi/obj/Debug/net8.0/PortfolioTrackerApi.csproj.AssemblyReference.cache
+/workspaces/simple-portfolio-tracker/PortfolioTrackerApi/obj/Debug/net8.0/PortfolioTrackerApi.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/simple-portfolio-tracker/PortfolioTrackerApi/obj/Debug/net8.0/PortfolioTrackerApi.AssemblyInfoInputs.cache
+/workspaces/simple-portfolio-tracker/PortfolioTrackerApi/obj/Debug/net8.0/PortfolioTrackerApi.AssemblyInfo.cs
+/workspaces/simple-portfolio-tracker/PortfolioTrackerApi/obj/Debug/net8.0/PortfolioTrackerApi.csproj.CoreCompileInputs.cache
+/workspaces/simple-portfolio-tracker/PortfolioTrackerApi/obj/Debug/net8.0/PortfolioTrackerApi.MvcApplicationPartsAssemblyInfo.cs
+/workspaces/simple-portfolio-tracker/PortfolioTrackerApi/obj/Debug/net8.0/PortfolioTrackerApi.MvcApplicationPartsAssemblyInfo.cache
+/workspaces/simple-portfolio-tracker/PortfolioTrackerApi/obj/Debug/net8.0/PortfolioTrackerApi.sourcelink.json
+/workspaces/simple-portfolio-tracker/PortfolioTrackerApi/obj/Debug/net8.0/staticwebassets.build.json
+/workspaces/simple-portfolio-tracker/PortfolioTrackerApi/obj/Debug/net8.0/staticwebassets.development.json
+/workspaces/simple-portfolio-tracker/PortfolioTrackerApi/obj/Debug/net8.0/staticwebassets/msbuild.PortfolioTrackerApi.Microsoft.AspNetCore.StaticWebAssets.props
+/workspaces/simple-portfolio-tracker/PortfolioTrackerApi/obj/Debug/net8.0/staticwebassets/msbuild.build.PortfolioTrackerApi.props
+/workspaces/simple-portfolio-tracker/PortfolioTrackerApi/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.PortfolioTrackerApi.props
+/workspaces/simple-portfolio-tracker/PortfolioTrackerApi/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.PortfolioTrackerApi.props
+/workspaces/simple-portfolio-tracker/PortfolioTrackerApi/obj/Debug/net8.0/staticwebassets.pack.json
+/workspaces/simple-portfolio-tracker/PortfolioTrackerApi/obj/Debug/net8.0/scopedcss/bundle/PortfolioTrackerApi.styles.css
+/workspaces/simple-portfolio-tracker/PortfolioTrackerApi/obj/Debug/net8.0/Portfoli.8E5002C2.Up2Date
+/workspaces/simple-portfolio-tracker/PortfolioTrackerApi/obj/Debug/net8.0/PortfolioTrackerApi.dll
+/workspaces/simple-portfolio-tracker/PortfolioTrackerApi/obj/Debug/net8.0/refint/PortfolioTrackerApi.dll
+/workspaces/simple-portfolio-tracker/PortfolioTrackerApi/obj/Debug/net8.0/PortfolioTrackerApi.pdb
+/workspaces/simple-portfolio-tracker/PortfolioTrackerApi/obj/Debug/net8.0/PortfolioTrackerApi.genruntimeconfig.cache
+/workspaces/simple-portfolio-tracker/PortfolioTrackerApi/obj/Debug/net8.0/ref/PortfolioTrackerApi.dll
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\Portfolio Tracker\simple-portfolio-tracker-main\PortfolioTrackerApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\Portfolio Tracker\simple-portfolio-tracker-main\PortfolioTrackerApi\bin\Debug\net8.0\appsettings.json
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\Portfolio Tracker\simple-portfolio-tracker-main\PortfolioTrackerApi\bin\Debug\net8.0\PortfolioTrackerApi.exe
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\Portfolio Tracker\simple-portfolio-tracker-main\PortfolioTrackerApi\bin\Debug\net8.0\PortfolioTrackerApi.deps.json
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\Portfolio Tracker\simple-portfolio-tracker-main\PortfolioTrackerApi\bin\Debug\net8.0\PortfolioTrackerApi.runtimeconfig.json
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\Portfolio Tracker\simple-portfolio-tracker-main\PortfolioTrackerApi\bin\Debug\net8.0\PortfolioTrackerApi.dll
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\Portfolio Tracker\simple-portfolio-tracker-main\PortfolioTrackerApi\bin\Debug\net8.0\PortfolioTrackerApi.pdb
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\Portfolio Tracker\simple-portfolio-tracker-main\PortfolioTrackerApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\Portfolio Tracker\simple-portfolio-tracker-main\PortfolioTrackerApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\Portfolio Tracker\simple-portfolio-tracker-main\PortfolioTrackerApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\Portfolio Tracker\simple-portfolio-tracker-main\PortfolioTrackerApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\Portfolio Tracker\simple-portfolio-tracker-main\PortfolioTrackerApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\Portfolio Tracker\simple-portfolio-tracker-main\PortfolioTrackerApi\obj\Debug\net8.0\PortfolioTrackerApi.csproj.AssemblyReference.cache
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\Portfolio Tracker\simple-portfolio-tracker-main\PortfolioTrackerApi\obj\Debug\net8.0\PortfolioTrackerApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\Portfolio Tracker\simple-portfolio-tracker-main\PortfolioTrackerApi\obj\Debug\net8.0\PortfolioTrackerApi.AssemblyInfoInputs.cache
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\Portfolio Tracker\simple-portfolio-tracker-main\PortfolioTrackerApi\obj\Debug\net8.0\PortfolioTrackerApi.AssemblyInfo.cs
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\Portfolio Tracker\simple-portfolio-tracker-main\PortfolioTrackerApi\obj\Debug\net8.0\PortfolioTrackerApi.csproj.CoreCompileInputs.cache
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\Portfolio Tracker\simple-portfolio-tracker-main\PortfolioTrackerApi\obj\Debug\net8.0\PortfolioTrackerApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\Portfolio Tracker\simple-portfolio-tracker-main\PortfolioTrackerApi\obj\Debug\net8.0\PortfolioTrackerApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\Portfolio Tracker\simple-portfolio-tracker-main\PortfolioTrackerApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\Portfolio Tracker\simple-portfolio-tracker-main\PortfolioTrackerApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\Portfolio Tracker\simple-portfolio-tracker-main\PortfolioTrackerApi\obj\Debug\net8.0\staticwebassets\msbuild.PortfolioTrackerApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\Portfolio Tracker\simple-portfolio-tracker-main\PortfolioTrackerApi\obj\Debug\net8.0\staticwebassets\msbuild.build.PortfolioTrackerApi.props
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\Portfolio Tracker\simple-portfolio-tracker-main\PortfolioTrackerApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PortfolioTrackerApi.props
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\Portfolio Tracker\simple-portfolio-tracker-main\PortfolioTrackerApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PortfolioTrackerApi.props
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\Portfolio Tracker\simple-portfolio-tracker-main\PortfolioTrackerApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\Portfolio Tracker\simple-portfolio-tracker-main\PortfolioTrackerApi\obj\Debug\net8.0\scopedcss\bundle\PortfolioTrackerApi.styles.css
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\Portfolio Tracker\simple-portfolio-tracker-main\PortfolioTrackerApi\obj\Debug\net8.0\Portfoli.8E5002C2.Up2Date
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\Portfolio Tracker\simple-portfolio-tracker-main\PortfolioTrackerApi\obj\Debug\net8.0\PortfolioTrackerApi.dll
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\Portfolio Tracker\simple-portfolio-tracker-main\PortfolioTrackerApi\obj\Debug\net8.0\refint\PortfolioTrackerApi.dll
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\Portfolio Tracker\simple-portfolio-tracker-main\PortfolioTrackerApi\obj\Debug\net8.0\PortfolioTrackerApi.pdb
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\Portfolio Tracker\simple-portfolio-tracker-main\PortfolioTrackerApi\obj\Debug\net8.0\PortfolioTrackerApi.genruntimeconfig.cache
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\Portfolio Tracker\simple-portfolio-tracker-main\PortfolioTrackerApi\obj\Debug\net8.0\ref\PortfolioTrackerApi.dll
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\simple-portfolio-tracker-main\PortfolioTrackerApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\simple-portfolio-tracker-main\PortfolioTrackerApi\bin\Debug\net8.0\appsettings.json
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\simple-portfolio-tracker-main\PortfolioTrackerApi\bin\Debug\net8.0\PortfolioTrackerApi.exe
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\simple-portfolio-tracker-main\PortfolioTrackerApi\bin\Debug\net8.0\PortfolioTrackerApi.deps.json
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\simple-portfolio-tracker-main\PortfolioTrackerApi\bin\Debug\net8.0\PortfolioTrackerApi.runtimeconfig.json
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\simple-portfolio-tracker-main\PortfolioTrackerApi\bin\Debug\net8.0\PortfolioTrackerApi.dll
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\simple-portfolio-tracker-main\PortfolioTrackerApi\bin\Debug\net8.0\PortfolioTrackerApi.pdb
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\simple-portfolio-tracker-main\PortfolioTrackerApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\simple-portfolio-tracker-main\PortfolioTrackerApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\simple-portfolio-tracker-main\PortfolioTrackerApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\simple-portfolio-tracker-main\PortfolioTrackerApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\simple-portfolio-tracker-main\PortfolioTrackerApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\simple-portfolio-tracker-main\PortfolioTrackerApi\obj\Debug\net8.0\PortfolioTrackerApi.csproj.AssemblyReference.cache
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\simple-portfolio-tracker-main\PortfolioTrackerApi\obj\Debug\net8.0\PortfolioTrackerApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\simple-portfolio-tracker-main\PortfolioTrackerApi\obj\Debug\net8.0\PortfolioTrackerApi.AssemblyInfoInputs.cache
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\simple-portfolio-tracker-main\PortfolioTrackerApi\obj\Debug\net8.0\PortfolioTrackerApi.AssemblyInfo.cs
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\simple-portfolio-tracker-main\PortfolioTrackerApi\obj\Debug\net8.0\PortfolioTrackerApi.csproj.CoreCompileInputs.cache
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\simple-portfolio-tracker-main\PortfolioTrackerApi\obj\Debug\net8.0\PortfolioTrackerApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\simple-portfolio-tracker-main\PortfolioTrackerApi\obj\Debug\net8.0\PortfolioTrackerApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\simple-portfolio-tracker-main\PortfolioTrackerApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\simple-portfolio-tracker-main\PortfolioTrackerApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\simple-portfolio-tracker-main\PortfolioTrackerApi\obj\Debug\net8.0\staticwebassets\msbuild.PortfolioTrackerApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\simple-portfolio-tracker-main\PortfolioTrackerApi\obj\Debug\net8.0\staticwebassets\msbuild.build.PortfolioTrackerApi.props
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\simple-portfolio-tracker-main\PortfolioTrackerApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PortfolioTrackerApi.props
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\simple-portfolio-tracker-main\PortfolioTrackerApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PortfolioTrackerApi.props
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\simple-portfolio-tracker-main\PortfolioTrackerApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\simple-portfolio-tracker-main\PortfolioTrackerApi\obj\Debug\net8.0\scopedcss\bundle\PortfolioTrackerApi.styles.css
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\simple-portfolio-tracker-main\PortfolioTrackerApi\obj\Debug\net8.0\Portfoli.8E5002C2.Up2Date
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\simple-portfolio-tracker-main\PortfolioTrackerApi\obj\Debug\net8.0\PortfolioTrackerApi.dll
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\simple-portfolio-tracker-main\PortfolioTrackerApi\obj\Debug\net8.0\refint\PortfolioTrackerApi.dll
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\simple-portfolio-tracker-main\PortfolioTrackerApi\obj\Debug\net8.0\PortfolioTrackerApi.pdb
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\simple-portfolio-tracker-main\PortfolioTrackerApi\obj\Debug\net8.0\PortfolioTrackerApi.genruntimeconfig.cache
+C:\Users\shama.k\Documents\Portfolio Tracker\Mini Project\simple-portfolio-tracker-main\PortfolioTrackerApi\obj\Debug\net8.0\ref\PortfolioTrackerApi.dll
