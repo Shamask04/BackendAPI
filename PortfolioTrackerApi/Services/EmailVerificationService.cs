@@ -29,7 +29,7 @@ namespace PortfolioTrackerApi.Services
 
             await SendEmail(email, code);
 
-            Console.WriteLine($"[Email to {email}]: Your verification code for FinTrack is {code}");
+            Console.WriteLine($"[Email to {email}]: Your verification code is {code}");
         }
 
         public bool VerifyCode(string email, string code)
@@ -66,13 +66,25 @@ namespace PortfolioTrackerApi.Services
 
         private async Task SendEmail(string toEmail, string code)
         {
-            var apiKey = "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"; // 🔥 Replace with your real SendGrid API Key
+            var apiKey = ""; 
             var client = new SendGridClient(apiKey);
-            var from = new EmailAddress("fintrackblr@gmail.com", "FinTrack"); // 🔥 Must be verified in SendGrid
-            var subject = "Your Verification Code";
+            var from = new EmailAddress("fintrackblr@gmail.com", "FinTrack"); 
+            var subject = "Your FinTrack Verification Code";
             var to = new EmailAddress(toEmail);
-            var plainTextContent = $"Your verification code is: {code}";
-            var htmlContent = $"<strong>Your verification code is: {code}</strong>";
+            var plainTextContent =
+                $"Hi Investor,\n\n" +
+                "Welcome to FinTrack - Where Finance Meets Clarity.\n" +
+                $"Your verification code is : {code}.\n" +
+                "(This code is valid for 5 minutes.)\n\n" +
+                "Please use this code to complete your verification.\n\n" +
+                "Stay on top of your finances,\n" +
+                "The FinTrack Team";
+            var htmlContent =
+                $"<p style='color:#000000;'>Hi Investor,</p>" +
+                $"<p style='color:#000000;'><strong>Welcome to FinTrack - Where Finance Meets Clarity.</strong></p>" +
+                $"<p style='color:#000000;'>Your verification code is : <strong>{code}</strong>.<br>(This code is valid for 5 minutes.)</p>" +
+                $"<p style='color:#000000;'>Please use this code to complete your verification.</p>" +
+                $"<p style='color:#000000;'>Stay on top of your finances,<br>The FinTrack Team</p>";
             var msg = MailHelper.CreateSingleEmail(from, to, subject, plainTextContent, htmlContent);
             var response = await client.SendEmailAsync(msg);
 
