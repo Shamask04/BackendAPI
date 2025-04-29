@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shama.k\\Documents\\Portfolio Tracker\\Mini Project\\simple-portfolio-tracker-main\\PortfolioTrackerApi\\PortfolioTrackerApi.csproj": {}
+    "C:\\Users\\ruchitha.j\\PortfolioTrackerApi\\PortfolioTrackerApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shama.k\\Documents\\Portfolio Tracker\\Mini Project\\simple-portfolio-tracker-main\\PortfolioTrackerApi\\PortfolioTrackerApi.csproj": {
+    "C:\\Users\\ruchitha.j\\PortfolioTrackerApi\\PortfolioTrackerApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shama.k\\Documents\\Portfolio Tracker\\Mini Project\\simple-portfolio-tracker-main\\PortfolioTrackerApi\\PortfolioTrackerApi.csproj",
+        "projectUniqueName": "C:\\Users\\ruchitha.j\\PortfolioTrackerApi\\PortfolioTrackerApi.csproj",
         "projectName": "PortfolioTrackerApi",
-        "projectPath": "C:\\Users\\shama.k\\Documents\\Portfolio Tracker\\Mini Project\\simple-portfolio-tracker-main\\PortfolioTrackerApi\\PortfolioTrackerApi.csproj",
-        "packagesPath": "C:\\Users\\shama.k\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shama.k\\Documents\\Portfolio Tracker\\Mini Project\\simple-portfolio-tracker-main\\PortfolioTrackerApi\\obj\\",
+        "projectPath": "C:\\Users\\ruchitha.j\\PortfolioTrackerApi\\PortfolioTrackerApi.csproj",
+        "packagesPath": "C:\\Users\\ruchitha.j\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ruchitha.j\\PortfolioTrackerApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\shama.k\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ruchitha.j\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -46,6 +46,10 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[8.0.15, )"
+            },
+            "SendGrid": {
+              "target": "Package",
+              "version": "[9.29.3, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

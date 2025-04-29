@@ -1,7 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
 using System.Collections.Generic;
-using PortfolioTrackerApi.Models;
 using PortfolioTrackerApi.Services;
 
 [ApiController]
@@ -23,18 +22,5 @@ public class AlphaVantageController : ControllerBase
 
         var results = await _alphaVantageService.SearchSymbolAsync(keyword);
         return Ok(results);
-    }
-
-    [HttpGet("quote")]
-    public async Task<ActionResult<StockQuote>> GetLatestQuote([FromQuery] string symbol)
-    {
-        if (string.IsNullOrWhiteSpace(symbol))
-            return BadRequest("Symbol is required.");
-    
-        var quote = await _alphaVantageService.GetLatestPriceAsync(symbol);
-        if (quote == null)
-            return NotFound("No data found for the given symbol.");
-    
-        return Ok(quote);
     }
 }
